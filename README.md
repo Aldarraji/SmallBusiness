@@ -1,5 +1,5 @@
 # SmallBusiness
-## Small Business website template WordPress Framework
+## Small Business website template WordPress Framework.
 NOTE: To use this template you need: 
 - Download the website template: https://drive.google.com/file/d/1-oqG0vN9HLQHC0xulXGLbL5RlTjV-mnm/view?usp=sharing
 - Worpress project or website
